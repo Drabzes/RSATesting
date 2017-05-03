@@ -1,0 +1,5 @@
+c:\users\titaantje\documents\visual studio 2017\Projects\RSATesting\RSATesting\bin\Debug\RSATesting.exe.config
+c:\users\titaantje\documents\visual studio 2017\Projects\RSATesting\RSATesting\bin\Debug\RSATesting.exe
+c:\users\titaantje\documents\visual studio 2017\Projects\RSATesting\RSATesting\bin\Debug\RSATesting.pdb
+c:\users\titaantje\documents\visual studio 2017\Projects\RSATesting\RSATesting\obj\Debug\RSATesting.exe
+c:\users\titaantje\documents\visual studio 2017\Projects\RSATesting\RSATesting\obj\Debug\RSATesting.pdb
